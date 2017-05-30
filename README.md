@@ -1,2 +1,2 @@
-# TableauWebDataConnections
-Web Data Connector connections for Tableau
+# Tableau WebData Connections
+Web Data Connector connections for Tableau.
